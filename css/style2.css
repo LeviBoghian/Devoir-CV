@@ -1,0 +1,31 @@
+article img {
+    width: 300px;
+    height: 300px;
+}
+
+a {
+    text-decoration: none;
+    padding: 0 5px;
+    color: black;
+}
+a:hover {
+    color: red;
+}
+
+nav {
+    margin-left: 1100px;
+}
+
+h2 {
+    color: skyblue;
+}
+
+p {
+    color: blue;
+}
+
+header img {
+    width: 500px;
+    height: 400px;
+    margin-left: 450px;
+}
